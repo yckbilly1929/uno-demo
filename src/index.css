@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+.anticon svg {
+  /* undo tailwind */
+  vertical-align: baseline !important;
+}
+
+.ant-table-cell {
+  white-space: pre-wrap !important;
+}
+
+.ant-table-cell-no-wrap {
+  white-space: nowrap !important;
+}
+
+.ant-card {
+  border-radius: 0%;
+}
+
+.ant-card-head {
+  border-bottom: 0 !important;
+}
